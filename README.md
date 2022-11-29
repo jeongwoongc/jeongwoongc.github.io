@@ -1,2 +1,2 @@
-# jeongwoongc.github.io
-hello
+theme: minima
+
