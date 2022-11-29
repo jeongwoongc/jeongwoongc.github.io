@@ -1,11 +1,10 @@
-title: Jekyll Serial Programmer
+title: Jeongwoong Choi
 markdown: kramdown
 
 # for atom feed
-author:
+author: 
   name: Jeongwoong Choi
-  email: dev_sharad@outlook.com
-
+  email: danielchoi360@gmail.com
 plugins:
   - jemoji
   - jekyll-seo-tag
