@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jekyll Theme Serial Programmer
 
 > A Jekyll theme for serial programmers (-.-)
@@ -52,3 +53,6 @@ You can use the sponsor button at the top or on the right.
 ## PHONE POST EXAMPLE
 
 ![Post page](https://raw.githubusercontent.com/sharadcodes/jekyll-theme-serial-programmer/main/screenshots/mobile_post.png)
+=======
+# jeongwoongc.github.io WIP
+>>>>>>> f3aeb5b7340febffd1b47d72ebe776fd155e253a
