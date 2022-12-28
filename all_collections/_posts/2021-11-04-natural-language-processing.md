@@ -7,7 +7,8 @@ categories: ["Data Science", "Jupyter"]
 
 <!-- Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword` -->
 
-[Link to another page](./another-page.html).
+
+[Test project](https://nbviewer.org/github/jeongwoongc/jeongwoongc.github.io/blob/main/all_collections/JupyterNBs/testNB.ipynb).
 
 There should be whitespace between paragraphs.
 
