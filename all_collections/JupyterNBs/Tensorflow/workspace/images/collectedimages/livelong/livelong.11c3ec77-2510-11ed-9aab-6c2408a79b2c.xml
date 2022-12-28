@@ -1,0 +1,26 @@
+<annotation>
+	<folder>livelong</folder>
+	<filename>livelong.11c3ec77-2510-11ed-9aab-6c2408a79b2c.jpg</filename>
+	<path>C:\Users\danie\Vscodepjcts\TF\Tensorflow\workspace\images\collectedimages\livelong\livelong.11c3ec77-2510-11ed-9aab-6c2408a79b2c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LiveLong</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>74</ymin>
+			<xmax>415</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>
