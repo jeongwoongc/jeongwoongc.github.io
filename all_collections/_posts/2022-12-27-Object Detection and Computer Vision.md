@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Object Detection and Computer Vision
+title: The Purpose of Education
 date: 2022-12-27
 categories: [Data Science, Jupyter ]
 ---
