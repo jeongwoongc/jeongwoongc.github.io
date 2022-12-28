@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Jekyll Markdown
+title: Natural Language Processing
 date: 2021-11-04
-categories: ["jekyll", "Test Post", "first post"]
+categories: ["Data Science", "Jupyter"]
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`
