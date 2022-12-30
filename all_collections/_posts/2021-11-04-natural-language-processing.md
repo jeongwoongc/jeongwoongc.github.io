@@ -7,7 +7,7 @@ categories: ["Data Science", "Jupyter"]
 
 <!-- Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword` -->
 
-#### [Test project](#https://nbviewer.org/github/jeongwoongc/jeongwoongc.github.io/blob/main/all_collections/JupyterNBs/testNB.ipynb).
+#### [WIP](https://github.com/jeongwoongc/jeongwoongc.github.io).
 
 
 <!-- #### Image
