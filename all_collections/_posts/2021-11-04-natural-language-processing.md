@@ -7,7 +7,7 @@ categories: ["Data Science", "Jupyter"]
 
 <!-- Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword` -->
 
-#### [WIP](https://github.com/jeongwoongc/jeongwoongc.github.io).
+#### [WIP](https://github.com/jeongwoongc/jeongwoongc.github.io)
 
 
 <!-- #### Image
