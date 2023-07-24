@@ -9,7 +9,9 @@ categories: [Data Science, Jupyter]
 
 A simple Object Detection project for detecting different hand gestures for sign language. This project demonstrates the use of the TF Model Garden Object Detection Library with TFRecords implementation. The benifit of using an existing SSD model was the ease of model customization.
 
-#### [FaceTracking Camera](https://nbviewer.org/github/jeongwoongc/jeongwoongc.github.io/blob/main/all_collections/JupyterNBs/ObjectDetection_FaceTracking/ObjectDetection_FaceTracking.ipynb#Collect-Images-Using-OpenCV)
+#### [FaceTracking Camera](https://github.com/jeongwoongc/Face-tracking-camera/blob/main/README.md) 
+
+## github link: ()
 
 Face detection model built from scratch to work closely with image augumentation, classification, loss metrics and regression techniques. This project has been extended to communicate positional data with a servo motor to capture a face at all times.
 
