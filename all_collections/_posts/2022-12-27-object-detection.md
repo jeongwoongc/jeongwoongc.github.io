@@ -11,8 +11,6 @@ A simple Object Detection project for detecting different hand gestures for sign
 
 #### [FaceTracking Camera](https://github.com/jeongwoongc/Face-tracking-camera/blob/main/README.md) 
 
-## github link: ()
-
 Face detection model built from scratch to work closely with image augumentation, classification, loss metrics and regression techniques. This project has been extended to communicate positional data with a servo motor to capture a face at all times.
 
 <!-- #### [Insert Project](https://github.com/jeongwoongc/jeongwoongc.github.io) -->
