@@ -7,25 +7,25 @@ import tensorflow as tf
 from keras.models import load_model
 
 # load face tracking model
-facetracker = load_model('facetracker.h5')
+facetracker = load_model('C:/Users/danie/Vscodepjcts/jeongwoongc.github.io/all_collections/JupyterNBs/ObjectDetection_FaceTracking/facetracker.h5')
 
 # arduino communication
-arduino = serial.Serial(port='COM5', baudrate=9600)
-time.sleep(3)
+# arduino = serial.Serial(port='COM5', baudrate=9600)
+# time.sleep(3)
 
-def coord_send(center):
+# def coord_send(center):
 
-    string_centerX = str(center[0])
-    string_centerY = str(center[1])
+#     string_centerX = str(center[0])
+#     string_centerY = str(center[1])
 
-    arduino.write(chr(88).encode('utf-8'))
-    arduino.write(bytes(string_centerX,'utf-8'))
-    arduino.write(chr(89).encode('utf-8'))
-    arduino.write(bytes(string_centerY,'utf-8'))
+#     arduino.write(chr(88).encode('utf-8'))
+#     arduino.write(bytes(string_centerX,'utf-8'))
+#     arduino.write(chr(89).encode('utf-8'))
+#     arduino.write(bytes(string_centerY,'utf-8'))
 
-    return 
+#     return 
 
-cap = cv2.VideoCapture(1)
+cap = cv2.VideoCapture(0)
 while cap.isOpened():
     _ , frame = cap.read()
     frame = frame[50:500, 50:500,:]
@@ -52,8 +52,8 @@ while cap.isOpened():
 
         cv2.circle(frame, center_coord, 5, (255, 0, 255), cv2.FILLED) 
 
-        # Send coordinate to arduino
-        coord_send(center_coord)
+        # # Send coordinate to arduino
+        # coord_send(center_coord)
 
         # Controls the label rectangle
         cv2.rectangle(frame, 
