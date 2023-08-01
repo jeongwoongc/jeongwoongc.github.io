@@ -7,4 +7,6 @@ categories: [Mechanical Design, Hardware, Thermal]
 
 #### [Design Portfolio Link](https://jeongwoongc.wixsite.com/portfolio)
 
-This page consists of design projects 
+This page consists of design projects within different areas of expertise
+
+
