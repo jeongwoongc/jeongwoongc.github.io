@@ -7,9 +7,10 @@ video: /images/finder.mp4
 categories: research
 author: "Daniel Choi"
 authors: "<strong>Daniel Choi</strong>, Angus Fung, Haitong Wang, Aaron Hao Tan"
-venue: "arXiv"
-arxiv: 
-code: 
+venue: "International Conference on Robotics and Automation (Coming Soon)"
+arxiv: "link"
+code: "link"
+paper: /pdfs/Finder_Final.pdf
 website: https://find-all-my-things.github.io/
 ---
 We present Finder, a novel approach to the multi-object search problem that leverages vision language models (VLMs) to efficiently locate multiple objects in diverse unknown environments. Our method combines semantic mapping with spatio-probabilistic reasoning and adaptive planning, improving object recognition and scene understanding through VLMs.
