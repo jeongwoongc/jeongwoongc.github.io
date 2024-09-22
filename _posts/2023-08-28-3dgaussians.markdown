@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Flexible Techniques for Differentiable Rendering with 3D Gaussians"
-date:   2023-08-28 22:21:59 +00:00
-image: /images/3dgaussian.jpg
+title:  "Find Everything: A General Vision Language Model Approach to Multi-Object Search"
+date:   2024-09-22 22:21:59 +00:00
+image: /images/finder.mp4
 categories: research
-author: "Leo Keselman"
-authors: "<strong>Leonid Keselman</strong>, Martial Hebert"
+author: "Daniel Choi"
+authors: "<strong>Daniel Choi</strong>, Angus Fung, Haitong Wang, Aaron Hao Tan"
 venue: "arXiv"
-arxiv: https://arxiv.org/abs/2308.14737
-code: https://github.com/leonidk/fmb-plus
-website: https://leonidk.github.io/fmb-plus
+arxiv: "coming soon"
+code: "coming soon"
+website: https://find-all-my-things.github.io/
 ---
-We show how shape reconstruction with 3D Gaussians can be expanded to include differentiable optical flow, colored mesh exports and more. 
+We present Finder, a novel approach to the multi-object search problem that leverages vision language models (VLMs) to efficiently locate multiple objects in diverse unknown environments. Our method combines semantic mapping with spatio-probabilistic reasoning and adaptive planning, improving object recognition and scene understanding through VLMs.

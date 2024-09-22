@@ -1302,3 +1302,4 @@ Gemfile.lock
 node_modules
 package.json
 favicon.ico
+all_collections/
