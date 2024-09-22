@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Fitness Tracker"
+date:   2022-12-27 22:21:59 +00:00
+image: /images/fitbit.jpg
+categories: Other
+author: "Daniel Choi"
+course: MIE438: Microprocessors and Embedded Microcontrollers
+code: https://github.com/avelynkwong/MIE438-Fitbit
+video2: https://play.library.utoronto.ca/watch/9e548edfaa146d6679854729a9d379d0
+---
+We developed and built a wireless, wearable fitness tracker capable of monitoring user steps and heart rate, aiding individuals in achieving their health and fitness targets. This was accomplished by utilizing the ESP32 S3 feather board with its integrated functionalities, alongside a heart rate sensor, accelerometer, and speaker.
+
+
+
+
+
+
