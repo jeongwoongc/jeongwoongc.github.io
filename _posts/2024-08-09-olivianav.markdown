@@ -2,8 +2,8 @@
 layout: post
 title:  "OLiVia-Nav: An Online Lifelong Vision Language Approach for Mobile Robot Social Navigation"
 date:   2024-08-09 22:21:59 +00:00
-image: 
-video: /images/olivilanav.mp4
+image: /images/olivia_nav.png
+# video: /images/olivilanav.mp4
 categories: research
 author: "Daniel Choi"
 authors: "Siddarth Narasimhan, Aaron Hao Tan, <strong>Daniel Choi</strong>, Goldie Nejat"
