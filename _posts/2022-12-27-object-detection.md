@@ -3,7 +3,7 @@ layout: post
 title:  "Face Tracking Camera"
 date:   2022-12-27 22:21:59 +00:00
 image: /images/Hardware1.jpg
-categories: Other
+categories: Side Project
 author: "Daniel Choi"
 subtitle: "Side Project"
 code: https://github.com/jeongwoongc/Face-tracking-camera
