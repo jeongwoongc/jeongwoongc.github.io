@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Trajectory Prediction and LLM Reward Tuning for Robot Social Navigation with Deep Reinforcement Learning"
+date:   2024-04-30 22:21:59 +00:00
+image: /images/olivia_nav.png
+# video: /images/olivilanav.mp4
+categories: research
+author: "Daniel Choi"
+authors: "<strong>Daniel Choi</strong>"
+venue: "Undergraduate Thesis"
+arxiv:
+code:
+paper: "/pdfs/Daniel_Choi_Thesis.pdf"
+website: 
+---
+We introduce OLiVia-Nav, an online lifelong vision language architecture for mobile robot social navigation. By leveraging large vision-language models (VLMs) and a novel distillation process called SC-CLIP, OLiVia-Nav efficiently encodes social and environmental contexts, adapting to dynamic human environments. Real-world experiments show its superior performance in generating socially compliant trajectories compared to state-of-the-art methods​
