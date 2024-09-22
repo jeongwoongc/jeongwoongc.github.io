@@ -3,7 +3,7 @@ layout: post
 title:  "Face Tracker Camera"
 date:   2017-05-01 22:21:59 +00:00
 image: /images/Hardware1.jpg
-categories: Standalone Project
+categories: Standalone
 author: "Daniel Choi"
 code: https://github.com/jeongwoongc/Face-tracking-camera
 ---
