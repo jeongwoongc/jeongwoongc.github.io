@@ -1290,3 +1290,15 @@ all_collections/JupyterNBs/Standalone_MIDI/data/maestro-v2.0.0/2018/MIDI-Unproce
 all_collections/JupyterNBs/Standalone_MIDI/data/maestro-v2.0.0/2018/MIDI-Unprocessed_Schubert10-12_MID--AUDIO_17_R2_2018_wav.midi
 all_collections/JupyterNBs/Standalone_MIDI/data/maestro-v2.0.0/2018/MIDI-Unprocessed_Schubert10-12_MID--AUDIO_18_R2_2018_wav.midi
 all_collections/JupyterNBs/Standalone_MIDI/data/maestro-v2.0.0/2018/MIDI-Unprocessed_Schubert10-12_MID--AUDIO_20_R2_2018_wav.midi
+
+_site
+.DS_Store
+.jekyll
+.jekyll-metadata
+.bundle
+.sass-cache
+Gemfile
+Gemfile.lock
+node_modules
+package.json
+favicon.ico
