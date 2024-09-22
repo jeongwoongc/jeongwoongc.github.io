@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Face Tracker Camera"
-date:   2017-05-01 22:21:59 +00:00
+date:   2022-05-01 22:21:59 +00:00
 image: /images/Hardware1.jpg
 categories: Standalone
 author: "Daniel Choi"
