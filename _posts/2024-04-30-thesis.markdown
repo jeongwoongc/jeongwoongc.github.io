@@ -9,7 +9,7 @@ authors: "<strong>Daniel Choi</strong>"
 venue: "Undergraduate Thesis"
 arxiv:
 code: 
-paper: "/pdfs/Daniel_Choi_Thesis.pdf"
+thesis: "/pdfs/Daniel_Choi_Thesis.pdf"
 website: 
 ---
 We show a mobile robot social navigation system combining trajectory prediction with reinforcement learning and Large Language Model (LLM) reward tuning in Omniverse Isaac Gym Environment (OIGE).

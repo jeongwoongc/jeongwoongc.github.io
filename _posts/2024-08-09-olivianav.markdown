@@ -8,8 +8,8 @@ categories: research
 author: "Daniel Choi"
 authors: "Siddarth Narasimhan, Aaron Hao Tan, <strong>Daniel Choi</strong>, Goldie Nejat"
 venue: "International Conference on Robotics and Automation (Coming Soon)"
-arxiv: "link"
-code: "link"
+arxiv: https://www.arxiv.org/abs/2409.13675
+youtube: https://www.youtube.com/watch?v=eyFJiOIITO0
 paper: "/pdfs/OLiVia_Nav_Paper_Final.pdf"
 website: "link"
 ---
