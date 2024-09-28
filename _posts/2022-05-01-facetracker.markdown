@@ -7,5 +7,5 @@ categories: Standalone
 author: "Daniel Choi"
 code: https://github.com/jeongwoongc/Face-tracking-camera
 ---
-Face detection model built from scratch to work closely with image augumentation, classification, loss metrics and regression techniques. This project has been extended to communicate positional data with a servo motor to capture a face at all times.
+The camera has a detection model trained from scratch to work closely with image augumentation, classification, loss metrics and regression techniques. 
 
