@@ -7,7 +7,7 @@ video: /images/finder.mp4
 categories: research
 author: "Daniel Choi"
 authors: "<strong>Daniel Choi</strong>, Angus Fung, Haitong Wang, Aaron Hao Tan"
-venue: "International Conference on Robotics and Automation (Coming Soon)"
+venue: "arXiv (Submitted), 2024"
 arxiv: https://arxiv.org/abs/2410.00388
 paper: /pdfs/Finder_Final.pdf
 website: https://find-all-my-things.github.io/
