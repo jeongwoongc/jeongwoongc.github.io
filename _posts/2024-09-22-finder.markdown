@@ -7,9 +7,8 @@ video: /images/finder.mp4
 categories: research
 author: "Daniel Choi"
 authors: "<strong>Daniel Choi</strong>, Angus Fung, Haitong Wang, Aaron Hao Tan"
-venue: 
-    - "International Conference on Robotics and Automation 2025, (Pending)"
-    - "LangRob @ CoRL 2024: Workshop on Language and Robot Learning"
+venue: "International Conference on Robotics and Automation 2025, (Pending)"
+venue2: "LangRob @ CoRL 2024: Workshop on Language and Robot Learning"
 arxiv: https://arxiv.org/abs/2410.00388
 paper: /pdfs/Finder_Final.pdf
 website: https://find-all-my-things.github.io/

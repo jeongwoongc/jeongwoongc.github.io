@@ -7,7 +7,7 @@ video: /images/4CNet_video.mp4
 categories: research
 author: "Daniel Choi"
 authors: "<strong>Daniel Choi (Acknowledged)</strong>"
-venue: "arXiv (Submitted)"
+venue: "IEEE Transactions on Robotics 2024, (Pending)"
 arxiv: https://arxiv.org/abs/2402.17904
 youtube: https://www.youtube.com/watch?v=QtviqC-MtEM
 paper: "/pdfs/4cnetpdf.pdf"

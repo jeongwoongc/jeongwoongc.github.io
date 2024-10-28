@@ -98,12 +98,17 @@
               {{post.authors}}
 
               <br>
-              {% for venue in post.venue %}
-              <em>{{venue}}</em>{% unless forloop.last %}, {% endunless %}
-              {% else %}
               <em>{{post.venue}}</em>
-              {% endfor %}
               <br>
+              <br>
+              {% if post.venue2 %}
+              <em>{{post.venue2}}</em>
+              <br>
+              {% endif %}
+              {% if post.venue3 %}
+              <em>{{post.venue3}}</em>
+              <br>
+              {% endif %}
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arXiv</a> /
               {% endif %}
