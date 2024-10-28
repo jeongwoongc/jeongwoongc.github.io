@@ -9,7 +9,7 @@ author: "Daniel Choi"
 authors: "Siddarth Narasimhan, Aaron Hao Tan, <strong>Daniel Choi</strong>, Goldie Nejat"
 venue: "International Conference on Robotics and Automation 2025, (Pending)"
 venue2: "<a href=https://sites.google.com/view/langrob-corl24/>LangRob @ CoRL 2024</a>: Workshop on Language and Robot Learning"
-venue3: "<a href=https://llhomerobots.github.io/>LLHomeRobots @ CoRL 2024: Workshop on Lifelong Learning for Home Robots</a> <strong>(Spotlight)</strong>"
+venue3: "<a href=https://llhomerobots.github.io/>LLHomeRobots @ CoRL 2024</a>: Workshop on Lifelong Learning for Home Robots <strong>(Spotlight)</strong>"
 arxiv: https://www.arxiv.org/abs/2409.13675
 youtube: https://www.youtube.com/watch?v=eyFJiOIITO0
 paper: "/pdfs/OLiVia_Nav_Paper_Final.pdf"
