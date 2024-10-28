@@ -98,7 +98,11 @@
               {{post.authors}}
 
               <br>
-              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+              {% for venue in post.venue %}
+              <em>{{venue}}</em>{% unless forloop.last %}, {% endunless %}
+              {% else %}
+              <em>{{post.venue}}</em>
+              {% endfor %}
               <br>
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arXiv</a> /

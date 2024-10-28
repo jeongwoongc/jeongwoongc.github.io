@@ -7,13 +7,11 @@ video: /images/olivia-nav.mp4
 categories: research
 author: "Daniel Choi"
 authors: "Siddarth Narasimhan, Aaron Hao Tan, <strong>Daniel Choi</strong>, Goldie Nejat"
-venue: "International Conference on Robotics and Automation 2025, (Pending)
-
-    LangRob @ CoRL 2024: Workshop on Language and Robot Learning
-    
-    LLHomeRobots @ CoRL 2024: Workshop on Lifelong Learning for Home Robots 
-    
-    <strong>(Spotlight)</strong>"
+venue: 
+    - "International Conference on Robotics and Automation 2025, (Pending)"
+    - "LangRob @ CoRL 2024: Workshop on Language and Robot Learning"
+    - "LLHomeRobots @ CoRL 2024: Workshop on Lifelong Learning for Home Robots "
+    - <strong>(Spotlight)</strong>"
 arxiv: https://www.arxiv.org/abs/2409.13675
 youtube: https://www.youtube.com/watch?v=eyFJiOIITO0
 paper: "/pdfs/OLiVia_Nav_Paper_Final.pdf"
