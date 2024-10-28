@@ -96,18 +96,14 @@
               <h3>{{post.title}}</h3>
               <br>
               {{post.authors}}
-
               <br>
               <em>{{post.venue}}</em>
-              <br>
-              <br>
               {% if post.venue2 %}
-              <em>{{post.venue2}}</em>
               <br>
+              <em>{{post.venue2}}</em>
               {% endif %}
               {% if post.venue3 %}
               <em>{{post.venue3}}</em>
-              <br>
               {% endif %}
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arXiv</a> /
