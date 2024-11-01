@@ -6,7 +6,7 @@ date:   2024-08-09 22:21:59 +00:00
 video: /images/olivia-nav.mp4
 categories: research
 author: "Daniel Choi"
-authors: "Siddarth Narasimhan, Aaron Hao Tan, <strong>Daniel Choi</strong>, Goldie Nejat"
+authors: "<a href=https://quest2gm.github.io/>Siddarth Narasimhan</a>, <a href=https://aarontan-git.github.io/>Aaron Hao Tan</a>, <strong>Daniel Choi</strong>, <a href=https://scholar.google.ca/citations?user=1pCgjH0AAAAJ&hl=en>Goldie Nejat<a/>"
 venue: "International Conference on Robotics and Automation 2025, (Pending)"
 venue2: "<a href=https://sites.google.com/view/langrob-corl24/>LangRob @ CoRL 2024</a>: Workshop on Language and Robot Learning"
 venue3: "<a href=https://llhomerobots.github.io/>LLHomeRobots @ CoRL 2024</a>: Workshop on Lifelong Learning for Home Robots <strong>(Spotlight)</strong>"
