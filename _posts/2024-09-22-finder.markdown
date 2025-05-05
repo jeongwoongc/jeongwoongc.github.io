@@ -9,7 +9,7 @@ author: "Daniel Choi"
 authors: "<strong>Daniel Choi</strong>, <a href=https://angusfung.github.io/>Angus Fung</a>, <a href=https://scholar.google.com/citations?user=LA6TYrgAAAAJ&hl=en>Haitong Wang</a>, <a href=https://aarontan-git.github.io/>Aaron Hao Tan</a>"
 venue: "<a href=https://sites.google.com/view/langrob-corl24/>LangRob @ CoRL 2024</a>: Workshop on Language and Robot Learning"
 arxiv: https://arxiv.org/abs/2410.00388
-paper: /pdfs/Finder_Final.pdf
+paper: /pdfs/Finder_V2.pdf
 website: https://find-all-my-things.github.io/
 ---
 We present Finder, a novel approach to the multi-object search problem that leverages vision language models (VLMs) to efficiently locate multiple objects in diverse unknown environments. Our method combines semantic mapping with spatio-probabilistic reasoning and adaptive planning, improving object recognition and scene understanding through VLMs.
