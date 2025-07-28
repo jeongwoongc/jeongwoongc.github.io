@@ -7,7 +7,8 @@ video: /images/finder.mp4
 categories: research
 author: "Daniel Choi"
 authors: "<strong>Daniel Choi</strong>, <a href=https://angusfung.github.io/>Angus Fung</a>, <a href=https://scholar.google.com/citations?user=LA6TYrgAAAAJ&hl=en>Haitong Wang</a>, <a href=https://aarontan-git.github.io/>Aaron Hao Tan</a>"
-venue: "<a href=https://sites.google.com/view/langrob-corl24/>LangRob @ CoRL 2024</a>: Workshop on Language and Robot Learning"
+venue: "IROS 2025"
+venue2:"<a href=https://sites.google.com/view/langrob-corl24/>LangRob @ CoRL 2024</a>: Workshop on Language and Robot Learning"
 arxiv: https://arxiv.org/abs/2410.00388
 paper: /pdfs/Finder_V2.pdf
 website: https://find-all-my-things.github.io/
